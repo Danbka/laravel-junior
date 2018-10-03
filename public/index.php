@@ -59,4 +59,4 @@ $response->send();
 
 $kernel->terminate($request, $response);
 
-// New issue 01 (process)
+// New issue 01 (process) - finish
