@@ -58,3 +58,5 @@ $response = $kernel->handle(
 $response->send();
 
 $kernel->terminate($request, $response);
+
+// New issue 01 (process)
